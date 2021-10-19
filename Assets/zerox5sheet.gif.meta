@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: fd190b696e0ff4e4b9ff334f84cfcfb5
+timeCreated: 1461759197
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zerox5sheet_0
+    21300002: zerox5sheet_1
+    21300004: zerox5sheet_2
+    21300006: zerox5sheet_3
+    21300008: zerox5sheet_4
+    21300010: zerox5sheet_5
+    21300012: zerox5sheet_6
+    21300014: zerox5sheet_7
+    21300016: zerox5sheet_8
+    21300018: zerox5sheet_9
+    21300020: zerox5sheet_10
+    21300022: zerox5sheet_11
+    21300024: zerox5sheet_12
+    21300026: zerox5sheet_13
+    21300028: zerox5sheet_14
+    21300030: zerox5sheet_15
+    21300032: zerox5sheet_16
+    21300034: zerox5sheet_17
+    21300036: zerox5sheet_18
+    21300038: zerox5sheet_19
+    21300040: zerox5sheet_20
+    21300042: zerox5sheet_21
+    21300044: zerox5sheet_22
+    21300046: zerox5sheet_23
+    21300048: zerox5sheet_24
+    21300050: zerox5sheet_25
+    21300052: zerox5sheet_26
+    21300054: zerox5sheet_27
+    21300056: zerox5sheet_28
+    21300058: zerox5sheet_29
+    21300060: zerox5sheet_30
+    21300062: zerox5sheet_31
+    21300064: zerox5sheet_32
+    21300066: zerox5sheet_33
+    21300068: zerox5sheet_34
+    21300070: zerox5sheet_35
+    21300072: zerox5sheet_36
+    21300074: zerox5sheet_37
+    21300076: zerox5sheet_38
+    21300078: zerox5sheet_39
+    21300080: zerox5sheet_40
+    21300082: zerox5sheet_41
+    21300084: zerox5sheet_42
+    21300086: zerox5sheet_43
+    21300088: zerox5sheet_44
+    21300090: zerox5sheet_45
+    21300092: zerox5sheet_46
+    21300094: zerox5sheet_47
+    21300096: zerox5sheet_48
+    21300098: zerox5sheet_49
+    21300100: zerox5sheet_50
+    21300102: zerox5sheet_51
+    21300104: zerox5sheet_52
+    21300106: zerox5sheet_53
+    21300108: zerox5sheet_54
+    21300110: zerox5sheet_55
+    21300112: zerox5sheet_56
+    21300114: zerox5sheet_57
+    21300116: zerox5sheet_58
+    21300118: zerox5sheet_59
+    21300120: zerox5sheet_60
+    21300122: zerox5sheet_61
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: zerox5sheet_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 408
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 19.5}
+        - {x: -10.5, y: 6.5}
+        - {x: -23.5, y: -13.5}
+        - {x: -23.5, y: -19.5}
+        - {x: 23.5, y: -19.5}
+        - {x: 23.5, y: 8.5}
+        - {x: 18.5, y: 19.5}
+    - name: zerox5sheet_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 408
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 17}
+        - {x: -6.5, y: 17}
+        - {x: -12.5, y: 16}
+        - {x: -24.5, y: -10}
+        - {x: -24.5, y: -17}
+        - {x: 23.5, y: -17}
+        - {x: 24.5, y: -16}
+        - {x: 24.5, y: 8}
+        - {x: 23.5, y: 12}
+    - name: zerox5sheet_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 406
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 18}
+        - {x: -29.5, y: 9}
+        - {x: -29.5, y: -1}
+        - {x: -23.5, y: -4}
+        - {x: -6.5, y: -2}
+        - {x: -18.5, y: -4}
+        - {x: -28.5, y: -12}
+        - {x: -29.5, y: -18}
+        - {x: 22.5, y: -18}
+        - {x: 29.5, y: -16}
+        - {x: 29.5, y: 5}
+        - {x: 22.5, y: 18}
+    - name: zerox5sheet_3
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 407
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 20}
+        - {x: -21.5, y: 20}
+        - {x: -27.5, y: 6}
+        - {x: -27.5, y: -20}
+        - {x: 26.5, y: -20}
+        - {x: 27.5, y: -16}
+        - {x: 27.5, y: 9}
+        - {x: 21.5, y: 19}
+    - name: zerox5sheet_4
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 408
+        width: 89
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 17}
+        - {x: -44.5, y: 6}
+        - {x: -42.5, y: 4}
+        - {x: -34.5, y: -1}
+        - {x: -25.5, y: -2}
+        - {x: -32.5, y: -2}
+        - {x: -42.5, y: -8}
+        - {x: -44.5, y: -17}
+        - {x: 33.5, y: -17}
+        - {x: 44.5, y: -15}
+        - {x: 44.5, y: 8}
+        - {x: 20.5, y: 17}
+    - name: zerox5sheet_5
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 409
+        width: 93
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 17.5}
+        - {x: -27.5, y: 17.5}
+        - {x: -46.5, y: 7.5}
+        - {x: -46.5, y: -17.5}
+        - {x: 9.5, y: -17.5}
+        - {x: 46.5, y: -4.5}
+        - {x: 46.5, y: 5.5}
+        - {x: 39.5, y: 10.5}
+    - name: zerox5sheet_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 359
+        width: 92
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -6.5}
+        - {x: 2, y: -13.5}
+        - {x: 41, y: -7.5}
+        - {x: 46, y: -0.5}
+        - {x: 46, y: 9.5}
+        - {x: 39, y: 14.5}
+        - {x: 35, y: 17.5}
+        - {x: -37, y: 17.5}
+        - {x: -46, y: 9.5}
+        - {x: -46, y: -17.5}
+        - {x: 0, y: -17.5}
+        - {x: 1, y: -16.5}
+        - {x: 1, y: -14.5}
+        - {x: 0, y: -8.5}
+    - name: zerox5sheet_7
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 360
+        width: 82
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 17.5}
+        - {x: -40, y: 16.5}
+        - {x: -41, y: 8.5}
+        - {x: -41, y: -17.5}
+        - {x: 18, y: -17.5}
+        - {x: 41, y: 8.5}
+        - {x: 41, y: 17.5}
+    - name: zerox5sheet_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 359
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17.5}
+        - {x: -19, y: 13.5}
+        - {x: -23, y: 7.5}
+        - {x: -23, y: 5.5}
+        - {x: -16, y: -0.5}
+        - {x: -24, y: -2.5}
+        - {x: -33, y: -10.5}
+        - {x: -33, y: -17.5}
+        - {x: 21, y: -17.5}
+        - {x: 33, y: -1.5}
+        - {x: 33, y: 17.5}
+    - name: zerox5sheet_9
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 360
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 17.5}
+        - {x: -21.5, y: 8.5}
+        - {x: -19.5, y: 5.5}
+        - {x: -12.5, y: -0.5}
+        - {x: -20.5, y: -2.5}
+        - {x: -29.5, y: -10.5}
+        - {x: -29.5, y: -17.5}
+        - {x: 21.5, y: -17.5}
+        - {x: 29.5, y: -0.5}
+        - {x: 29.5, y: 17.5}
+    - name: zerox5sheet_10
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 358
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 17.5}
+        - {x: -20.5, y: 8.5}
+        - {x: -18.5, y: 5.5}
+        - {x: -11.5, y: -0.5}
+        - {x: -19.5, y: -2.5}
+        - {x: -28.5, y: -10.5}
+        - {x: -28.5, y: -17.5}
+        - {x: 24.5, y: -17.5}
+        - {x: 28.5, y: -10.5}
+        - {x: 28.5, y: 17.5}
+    - name: zerox5sheet_11
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 354
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19.5}
+        - {x: -12, y: 18.5}
+        - {x: -24, y: -5.5}
+        - {x: -24, y: -19.5}
+        - {x: 18, y: -19.5}
+        - {x: 24, y: -16.5}
+        - {x: 24, y: 16.5}
+        - {x: 22, y: 19.5}
+    - name: zerox5sheet_12
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 355
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 19.5}
+        - {x: -22.5, y: 0.5}
+        - {x: -22.5, y: -19.5}
+        - {x: 20.5, y: -19.5}
+        - {x: 22.5, y: -18.5}
+        - {x: 22.5, y: 18.5}
+        - {x: 21.5, y: 19.5}
+    - name: zerox5sheet_13
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 317
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zerox5sheet_14
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 317
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zerox5sheet_15
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 316
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -19, y: 16}
+        - {x: -30, y: -4}
+        - {x: -30, y: -16}
+        - {x: 30, y: -16}
+        - {x: 30, y: -9}
+        - {x: 15, y: 13}
+    - name: zerox5sheet_16
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 316
+        width: 72
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zerox5sheet_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 225
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 31}
+        - {x: -21.5, y: 16}
+        - {x: -17.5, y: -11}
+        - {x: -4.5, y: -31}
+        - {x: 8.5, y: -31}
+        - {x: 14.5, y: -30}
+        - {x: 21.5, y: -13}
+        - {x: 21.5, y: 30}
+        - {x: 17.5, y: 31}
+    - name: zerox5sheet_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 225
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 35}
+        - {x: -18.5, y: 24}
+        - {x: -22.5, y: 9}
+        - {x: -22.5, y: -25}
+        - {x: -14.5, y: -35}
+        - {x: -3.5, y: -35}
+        - {x: 13.5, y: -32}
+        - {x: 22.5, y: -6}
+        - {x: 22.5, y: 35}
+    - name: zerox5sheet_19
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 227
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 34}
+        - {x: -8.5, y: 34}
+        - {x: -18.5, y: 15}
+        - {x: -18.5, y: -32}
+        - {x: -11.5, y: -34}
+        - {x: -0.5, y: -34}
+        - {x: 16.5, y: -15}
+        - {x: 18.5, y: -11}
+        - {x: 18.5, y: 20}
+    - name: zerox5sheet_20
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 227
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 34}
+        - {x: -11, y: 34}
+        - {x: -18, y: 18}
+        - {x: -18, y: -33}
+        - {x: -13, y: -34}
+        - {x: -4, y: -34}
+        - {x: 18, y: -7}
+        - {x: 18, y: 12}
+        - {x: 16, y: 28}
+    - name: zerox5sheet_21
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 227
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 34}
+        - {x: -11, y: 34}
+        - {x: -18, y: 18}
+        - {x: -18, y: -33}
+        - {x: -17, y: -34}
+        - {x: -3, y: -34}
+        - {x: 18, y: -18}
+        - {x: 18, y: 22}
+        - {x: 15, y: 27}
+    - name: zerox5sheet_22
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 227
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 33.5}
+        - {x: -14.5, y: 33.5}
+        - {x: -18.5, y: 15.5}
+        - {x: -18.5, y: -27.5}
+        - {x: -10.5, y: -33.5}
+        - {x: -2.5, y: -33.5}
+        - {x: 18.5, y: -14.5}
+        - {x: 18.5, y: 21.5}
+        - {x: 15.5, y: 29.5}
+    - name: zerox5sheet_23
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 227
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 33.5}
+        - {x: -18, y: -30.5}
+        - {x: -12, y: -33.5}
+        - {x: -4, y: -33.5}
+        - {x: 18, y: -6.5}
+        - {x: 18, y: 14.5}
+        - {x: 2, y: 33.5}
+    - name: zerox5sheet_24
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 227
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 33.5}
+        - {x: -14, y: 32.5}
+        - {x: -18, y: 9.5}
+        - {x: -18, y: -28.5}
+        - {x: -16, y: -29.5}
+        - {x: -11, y: -33.5}
+        - {x: -4, y: -33.5}
+        - {x: 18, y: -6.5}
+        - {x: 18, y: 14.5}
+        - {x: 2, y: 33.5}
+    - name: zerox5sheet_25
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 227
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 34}
+        - {x: -5.5, y: 34}
+        - {x: -18.5, y: 14}
+        - {x: -18.5, y: -32}
+        - {x: -11.5, y: -34}
+        - {x: -0.5, y: -34}
+        - {x: 16.5, y: -15}
+        - {x: 18.5, y: -9}
+        - {x: 18.5, y: 16}
+    - name: zerox5sheet_26
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 227
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 34}
+        - {x: -18, y: 13}
+        - {x: -18, y: -33}
+        - {x: -17, y: -34}
+        - {x: -2, y: -34}
+        - {x: 18, y: -18}
+        - {x: 18, y: 16}
+        - {x: 4, y: 34}
+    - name: zerox5sheet_27
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 227
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 34}
+        - {x: -18, y: -34}
+        - {x: -2, y: -34}
+        - {x: 18, y: -18}
+        - {x: 18, y: 16}
+        - {x: 4, y: 34}
+    - name: zerox5sheet_28
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 273
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zerox5sheet_29
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 271
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zerox5sheet_30
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 259
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zerox5sheet_31
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 259
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zerox5sheet_32
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 260
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zerox5sheet_33
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 248
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zerox5sheet_34
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 246
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zerox5sheet_35
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 249
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zerox5sheet_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 152
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zerox5sheet_37
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 152
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 34.5}
+        - {x: -18.5, y: 28.5}
+        - {x: -18.5, y: -32.5}
+        - {x: -11.5, y: -34.5}
+        - {x: -2.5, y: -34.5}
+        - {x: 18.5, y: -18.5}
+        - {x: 18.5, y: 34.5}
+    - name: zerox5sheet_38
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 154
+        width: 90
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 33.5}
+        - {x: -16, y: 27.5}
+        - {x: -2, y: 14.5}
+        - {x: -24, y: 33.5}
+        - {x: -35, y: 33.5}
+        - {x: -45, y: 18.5}
+        - {x: -45, y: -33.5}
+        - {x: -3, y: -33.5}
+        - {x: 45, y: -16.5}
+        - {x: 45, y: 15.5}
+        - {x: 0, y: 33.5}
+    - name: zerox5sheet_39
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 155
+        width: 91
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 23}
+        - {x: 9.5, y: 20}
+        - {x: 10.5, y: 17}
+        - {x: -24.5, y: 33}
+        - {x: -39.5, y: 33}
+        - {x: -45.5, y: 11}
+        - {x: -45.5, y: -33}
+        - {x: -18.5, y: -33}
+        - {x: 11.5, y: -31}
+        - {x: 45.5, y: -20}
+        - {x: 45.5, y: 3}
+        - {x: 37.5, y: 17}
+    - name: zerox5sheet_40
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 155
+        width: 91
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 33}
+        - {x: -45.5, y: -33}
+        - {x: 17.5, y: -33}
+        - {x: 45.5, y: -18}
+        - {x: 45.5, y: 2}
+        - {x: -4.5, y: 33}
+    - name: zerox5sheet_41
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 155
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 33}
+        - {x: -29.5, y: 33}
+        - {x: -35.5, y: 10}
+        - {x: -35.5, y: -33}
+        - {x: -16.5, y: -33}
+        - {x: 35.5, y: -24}
+        - {x: 35.5, y: -12}
+        - {x: 2.5, y: 32}
+    - name: zerox5sheet_42
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 155
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 33}
+        - {x: -23, y: -33}
+        - {x: 5, y: -33}
+        - {x: 23, y: -16}
+        - {x: 23, y: 7}
+        - {x: 0, y: 33}
+    - name: zerox5sheet_43
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 155
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 33}
+        - {x: -16, y: 10}
+        - {x: -16, y: -33}
+        - {x: -1, y: -33}
+        - {x: 16, y: -15}
+        - {x: 16, y: 30}
+        - {x: 9, y: 33}
+    - name: zerox5sheet_44
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 80
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zerox5sheet_45
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 80
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 34}
+        - {x: -13.5, y: 34}
+        - {x: -18.5, y: 30}
+        - {x: -18.5, y: -30}
+        - {x: -10.5, y: -34}
+        - {x: -3.5, y: -34}
+        - {x: 14.5, y: -7}
+        - {x: 18.5, y: 1}
+        - {x: 18.5, y: 19}
+    - name: zerox5sheet_46
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 82
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 33}
+        - {x: -45, y: -33}
+        - {x: -3, y: -33}
+        - {x: 45, y: -16}
+        - {x: 45, y: 16}
+        - {x: 4, y: 33}
+    - name: zerox5sheet_47
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 83
+        width: 91
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 23.5}
+        - {x: 9.5, y: 20.5}
+        - {x: -13.5, y: 32.5}
+        - {x: -40.5, y: 32.5}
+        - {x: -41.5, y: 31.5}
+        - {x: -45.5, y: 21.5}
+        - {x: -45.5, y: -32.5}
+        - {x: -11.5, y: -32.5}
+        - {x: 11.5, y: -29.5}
+        - {x: 45.5, y: -19.5}
+        - {x: 45.5, y: 3.5}
+        - {x: 37.5, y: 17.5}
+    - name: zerox5sheet_48
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 83
+        width: 91
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 32.5}
+        - {x: -41.5, y: 31.5}
+        - {x: -45.5, y: 21.5}
+        - {x: -45.5, y: -32.5}
+        - {x: 20.5, y: -32.5}
+        - {x: 45.5, y: -26.5}
+        - {x: 45.5, y: 8.5}
+        - {x: 12.5, y: 32.5}
+    - name: zerox5sheet_49
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 83
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: -32.5}
+        - {x: -7.5, y: -32.5}
+        - {x: 35.5, y: -24.5}
+        - {x: 35.5, y: -11.5}
+        - {x: -5.5, y: 32.5}
+        - {x: -31.5, y: 32.5}
+        - {x: -31.5, y: 31.5}
+        - {x: -35.5, y: 21.5}
+    - name: zerox5sheet_50
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 83
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -32.5}
+        - {x: -1, y: -32.5}
+        - {x: 23, y: -22.5}
+        - {x: 23, y: -5.5}
+        - {x: 0, y: 32.5}
+        - {x: -18, y: 32.5}
+        - {x: -19, y: 31.5}
+        - {x: -23, y: 21.5}
+    - name: zerox5sheet_51
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 83
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32.5}
+        - {x: -12, y: 31.5}
+        - {x: -16, y: 21.5}
+        - {x: -16, y: -32.5}
+        - {x: -1, y: -32.5}
+        - {x: 16, y: -14.5}
+        - {x: 16, y: 20.5}
+        - {x: 5, y: 32.5}
+    - name: zerox5sheet_52
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 80
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 34}
+        - {x: -17.5, y: 34}
+        - {x: -18.5, y: 25}
+        - {x: -18.5, y: -33}
+        - {x: -14.5, y: -34}
+        - {x: 3.5, y: -34}
+        - {x: 18.5, y: -10}
+        - {x: 18.5, y: 13}
+        - {x: 7.5, y: 30}
+    - name: zerox5sheet_53
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 7
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zerox5sheet_54
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 7
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 34.5}
+        - {x: -18.5, y: 30.5}
+        - {x: -18.5, y: -30.5}
+        - {x: -10.5, y: -34.5}
+        - {x: 3.5, y: -34.5}
+        - {x: 18.5, y: -9.5}
+        - {x: 18.5, y: 12.5}
+        - {x: 4.5, y: 34.5}
+    - name: zerox5sheet_55
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 9
+        width: 90
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 33.5}
+        - {x: -45, y: 26.5}
+        - {x: -45, y: -33.5}
+        - {x: 1, y: -33.5}
+        - {x: 45, y: -19.5}
+        - {x: 45, y: 15.5}
+        - {x: 10, y: 33.5}
+    - name: zerox5sheet_56
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 10
+        width: 91
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 23}
+        - {x: 9.5, y: 20}
+        - {x: -21.5, y: 33}
+        - {x: -33.5, y: 33}
+        - {x: -34.5, y: 30}
+        - {x: -37.5, y: 23}
+        - {x: -45.5, y: 7}
+        - {x: -45.5, y: -33}
+        - {x: -18.5, y: -33}
+        - {x: 11.5, y: -30}
+        - {x: 45.5, y: -20}
+        - {x: 45.5, y: 3}
+        - {x: 37.5, y: 17}
+    - name: zerox5sheet_57
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 10
+        width: 91
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: -33}
+        - {x: 24.5, y: -33}
+        - {x: 45.5, y: -28}
+        - {x: 45.5, y: 11}
+        - {x: 18.5, y: 33}
+        - {x: -43.5, y: 33}
+        - {x: -45.5, y: 19}
+    - name: zerox5sheet_58
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 10
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 33}
+        - {x: -24.5, y: 30}
+        - {x: -27.5, y: 23}
+        - {x: -35.5, y: 7}
+        - {x: -35.5, y: -33}
+        - {x: 2.5, y: -33}
+        - {x: 35.5, y: -24}
+        - {x: 35.5, y: -12}
+        - {x: 30.5, y: -6}
+        - {x: -13.5, y: 33}
+    - name: zerox5sheet_59
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 10
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 33}
+        - {x: -12, y: 30}
+        - {x: -15, y: 23}
+        - {x: -23, y: 7}
+        - {x: -23, y: -33}
+        - {x: 4, y: -33}
+        - {x: 23, y: -15}
+        - {x: 23, y: 4}
+        - {x: -1, y: 33}
+    - name: zerox5sheet_60
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 10
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 33}
+        - {x: -4, y: 33}
+        - {x: -5, y: 30}
+        - {x: -8, y: 23}
+        - {x: -16, y: 7}
+        - {x: -16, y: -33}
+        - {x: -1, y: -33}
+        - {x: 16, y: -13}
+        - {x: 16, y: 1}
+        - {x: 13, y: 21}
+    - name: zerox5sheet_61
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 7
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 34.5}
+        - {x: -18.5, y: 30.5}
+        - {x: -18.5, y: -33.5}
+        - {x: -14.5, y: -34.5}
+        - {x: -3.5, y: -34.5}
+        - {x: 18.5, y: -6.5}
+        - {x: 18.5, y: 16.5}
+        - {x: 11.5, y: 34.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

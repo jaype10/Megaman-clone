@@ -1,0 +1,643 @@
+fileFormatVersion: 2
+guid: e324bd167c39bd5449bc1871cdc87d46
+timeCreated: 1465943650
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: X4_0
+    21300002: X4_1
+    21300004: X4_2
+    21300006: X4_3
+    21300008: X4_4
+    21300010: X4_5
+    21300012: X4_6
+    21300014: X4_7
+    21300016: X4_8
+    21300018: X4_9
+    21300020: X4_10
+    21300022: X4_11
+    21300024: X4_12
+    21300026: X4_13
+    21300028: X4_14
+    21300030: X4_15
+    21300032: X4_16
+    21300034: X4_17
+    21300036: X4_18
+    21300038: X4_19
+    21300040: X4_20
+    21300042: X4_21
+    21300044: X4_22
+    21300046: X4_23
+    21300048: X4_24
+    21300050: X4_25
+    21300052: X4_26
+    21300054: X4_27
+    21300056: X4_28
+    21300058: X4_29
+    21300060: X4_30
+    21300062: X4_31
+    21300064: X4_32
+    21300066: X4_33
+    21300068: X4_34
+    21300070: X4_35
+    21300072: X4_36
+    21300074: X4_37
+    21300076: X4_38
+    21300078: X4_39
+    21300080: X4_40
+    21300082: X4_41
+    21300084: X4_42
+    21300086: X4_43
+    21300088: X4_44
+    21300090: X4_45
+    21300092: X4_46
+    21300094: X4_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: X4_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 185
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 185
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 177
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 185
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 185
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 186
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 186
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 185
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_8
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 185
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 145
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 145
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 146
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 146
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 145
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 145
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 145
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_16
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 145
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 145
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 102
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 104
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 109
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_21
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 109
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 104
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_23
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 102
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 63
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 63
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_27
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 61
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 62
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 62
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_30
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 61
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_31
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 64
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_32
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 63
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_33
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 63
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_34
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 23}
+        - {x: 23, y: 24}
+    - name: X4_35
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 7
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 23}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: X4_36
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 39
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_37
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 40
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 40
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_39
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 40
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_40
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 40
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_41
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 39
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_42
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 23
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 12
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_44
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 12
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_45
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 23
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_46
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 8
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4_47
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 8
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
